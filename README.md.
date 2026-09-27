@@ -3,7 +3,9 @@
 ### AI-Powered SMS Spam Detection
 
 SpamGuard AI is a machine learning web application that classifies SMS messages as spam or normal. It also includes additional safety checks to flag potentially suspicious messages that the AI model might miss.
+## 🌐 Live Demo
 
+[🚀 Launch SpamGuard AI](https://spam-sms-detector-jyqnmsujuuwhwgiw3vuzw7.streamlit.app/)
 ## 🚀 Features
 
 - Instant SMS spam detection
