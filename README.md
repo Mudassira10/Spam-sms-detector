@@ -101,6 +101,8 @@ SpamGuard AI is an educational machine learning project. A "No Spam Detected" re
 ## 👩‍💻 Developed By
 
 **Mudassira**
+## 📸 Application Screenshot
 
+![SpamGuard AI Homepage](Screenshot_20260927_200623.jpg)
 GitHub: [Mudassira10](https://github.com/Mudassira10)
 
